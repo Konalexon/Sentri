@@ -18,3 +18,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 1 - 2025-10-01
 - Initial project setup
+
+## Commit 2 - 2025-10-01
+- Add Laravel framework structure
