@@ -24,3 +24,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 3 - 2025-10-02
 - Configure database connection
+
+## Commit 4 - 2025-10-03
+- Create User model and migration
