@@ -27,3 +27,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 4 - 2025-10-03
 - Create User model and migration
+
+## Commit 5 - 2025-10-04
+- Add authentication scaffolding
