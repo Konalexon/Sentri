@@ -33,3 +33,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 6 - 2025-10-05
 - Implement login functionality
+
+## Commit 7 - 2025-10-06
+- Add registration endpoint
