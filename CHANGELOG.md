@@ -36,3 +36,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 7 - 2025-10-06
 - Add registration endpoint
+
+## Commit 8 - 2025-10-07
+- Create Ticket model
