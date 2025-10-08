@@ -39,3 +39,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 8 - 2025-10-07
 - Create Ticket model
+
+## Commit 9 - 2025-10-08
+- Add ticket migrations
