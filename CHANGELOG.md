@@ -42,3 +42,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 9 - 2025-10-08
 - Add ticket migrations
+
+## Commit 10 - 2025-10-09
+- Implement TicketController
