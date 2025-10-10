@@ -48,3 +48,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 11 - 2025-10-10
 - Add ticket validation rules
+
+## Commit 12 - 2025-10-10
+- Create TicketService class
