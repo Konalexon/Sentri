@@ -51,3 +51,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 12 - 2025-10-10
 - Create TicketService class
+
+## Commit 13 - 2025-10-11
+- Add ticket status enum
