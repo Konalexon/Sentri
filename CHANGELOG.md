@@ -54,3 +54,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 13 - 2025-10-11
 - Add ticket status enum
+
+## Commit 14 - 2025-10-12
+- Implement priority levels
