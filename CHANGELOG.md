@@ -57,3 +57,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 14 - 2025-10-12
 - Implement priority levels
+
+## Commit 15 - 2025-10-13
+- Create Message model
