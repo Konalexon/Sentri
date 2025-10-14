@@ -60,3 +60,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 15 - 2025-10-13
 - Create Message model
+
+## Commit 16 - 2025-10-14
+- Add message relationships
