@@ -63,3 +63,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 16 - 2025-10-14
 - Add message relationships
+
+## Commit 17 - 2025-10-15
+- Implement real-time messaging
