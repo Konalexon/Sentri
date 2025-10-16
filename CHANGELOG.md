@@ -66,3 +66,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 17 - 2025-10-15
 - Implement real-time messaging
+
+## Commit 18 - 2025-10-16
+- Add WebSocket configuration
