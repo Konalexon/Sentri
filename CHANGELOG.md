@@ -69,3 +69,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 18 - 2025-10-16
 - Add WebSocket configuration
+
+## Commit 19 - 2025-10-17
+- Create API routes
