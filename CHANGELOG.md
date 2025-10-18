@@ -72,3 +72,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 19 - 2025-10-17
 - Create API routes
+
+## Commit 20 - 2025-10-18
+- Add Sanctum authentication
