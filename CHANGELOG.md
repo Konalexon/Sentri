@@ -78,3 +78,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 21 - 2025-10-19
 - Implement token management
+
+## Commit 22 - 2025-10-19
+- Create Tag model
