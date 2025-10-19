@@ -75,3 +75,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 20 - 2025-10-18
 - Add Sanctum authentication
+
+## Commit 21 - 2025-10-19
+- Implement token management
