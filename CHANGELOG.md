@@ -81,3 +81,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 22 - 2025-10-19
 - Create Tag model
+
+## Commit 23 - 2025-10-20
+- Add tagging system
