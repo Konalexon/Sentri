@@ -84,3 +84,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 23 - 2025-10-20
 - Add tagging system
+
+## Commit 24 - 2025-10-21
+- Implement search functionality
