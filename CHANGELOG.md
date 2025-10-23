@@ -90,3 +90,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 25 - 2025-10-22
 - Add pagination support
+
+## Commit 26 - 2025-10-23
+- Create statistics endpoint
