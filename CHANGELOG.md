@@ -93,3 +93,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 26 - 2025-10-23
 - Create statistics endpoint
+
+## Commit 27 - 2025-10-24
+- Add dashboard metrics
