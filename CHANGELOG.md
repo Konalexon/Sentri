@@ -96,3 +96,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 27 - 2025-10-24
 - Add dashboard metrics
+
+## Commit 28 - 2025-10-25
+- Implement agent assignment
