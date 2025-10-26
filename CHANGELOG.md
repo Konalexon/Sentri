@@ -99,3 +99,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 28 - 2025-10-25
 - Implement agent assignment
+
+## Commit 29 - 2025-10-26
+- Create notification system
