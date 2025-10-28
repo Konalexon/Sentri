@@ -105,3 +105,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 30 - 2025-10-27
 - Add email notifications
+
+## Commit 31 - 2025-10-28
+- Setup Vue.js frontend
