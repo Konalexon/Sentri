@@ -108,3 +108,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 31 - 2025-10-28
 - Setup Vue.js frontend
+
+## Commit 32 - 2025-10-28
+- Configure Vite build
