@@ -111,3 +111,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 32 - 2025-10-28
 - Configure Vite build
+
+## Commit 33 - 2025-10-29
+- Create App.vue component
