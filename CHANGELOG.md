@@ -114,3 +114,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 33 - 2025-10-29
 - Create App.vue component
+
+## Commit 34 - 2025-10-30
+- Add Vue Router setup
