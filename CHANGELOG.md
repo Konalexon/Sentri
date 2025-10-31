@@ -117,3 +117,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 34 - 2025-10-30
 - Add Vue Router setup
+
+## Commit 35 - 2025-10-31
+- Implement Pinia stores
