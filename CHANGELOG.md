@@ -120,3 +120,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 35 - 2025-10-31
 - Implement Pinia stores
+
+## Commit 36 - 2025-11-01
+- Create auth store
