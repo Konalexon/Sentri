@@ -123,3 +123,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 36 - 2025-11-01
 - Create auth store
+
+## Commit 37 - 2025-11-02
+- Add ticket store
