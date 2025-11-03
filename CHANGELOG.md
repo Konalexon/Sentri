@@ -126,3 +126,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 37 - 2025-11-02
 - Add ticket store
+
+## Commit 38 - 2025-11-03
+- Implement API service
