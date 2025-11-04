@@ -129,3 +129,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 38 - 2025-11-03
 - Implement API service
+
+## Commit 39 - 2025-11-04
+- Create Sidebar component
