@@ -132,3 +132,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 39 - 2025-11-04
 - Create Sidebar component
+
+## Commit 40 - 2025-11-05
+- Add navigation links
