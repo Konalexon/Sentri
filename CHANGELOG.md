@@ -138,3 +138,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 41 - 2025-11-06
 - Style sidebar with gradients
+
+## Commit 42 - 2025-11-06
+- Create Dashboard page
