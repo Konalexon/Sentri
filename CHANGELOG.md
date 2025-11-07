@@ -141,3 +141,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 42 - 2025-11-06
 - Create Dashboard page
+
+## Commit 43 - 2025-11-07
+- Add ticket list view
