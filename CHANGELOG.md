@@ -144,3 +144,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 43 - 2025-11-07
 - Add ticket list view
+
+## Commit 44 - 2025-11-08
+- Implement chat window
