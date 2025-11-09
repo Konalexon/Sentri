@@ -147,3 +147,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 44 - 2025-11-08
 - Implement chat window
+
+## Commit 45 - 2025-11-09
+- Create message bubbles
