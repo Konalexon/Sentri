@@ -150,3 +150,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 45 - 2025-11-09
 - Create message bubbles
+
+## Commit 46 - 2025-11-10
+- Add real-time updates
