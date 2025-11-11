@@ -153,3 +153,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 46 - 2025-11-10
 - Add real-time updates
+
+## Commit 47 - 2025-11-11
+- Implement file uploads
