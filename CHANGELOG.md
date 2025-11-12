@@ -156,3 +156,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 47 - 2025-11-11
 - Implement file uploads
+
+## Commit 48 - 2025-11-12
+- Create Login page
