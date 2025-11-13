@@ -159,3 +159,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 48 - 2025-11-12
 - Create Login page
+
+## Commit 49 - 2025-11-13
+- Add login form validation
