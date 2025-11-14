@@ -162,3 +162,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 49 - 2025-11-13
 - Add login form validation
+
+## Commit 50 - 2025-11-14
+- Style login with glassmorphism
