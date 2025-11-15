@@ -165,3 +165,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 50 - 2025-11-14
 - Style login with glassmorphism
+
+## Commit 51 - 2025-11-15
+- Create Register page
