@@ -168,3 +168,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 51 - 2025-11-15
 - Create Register page
+
+## Commit 52 - 2025-11-15
+- Add password confirmation
