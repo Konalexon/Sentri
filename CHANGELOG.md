@@ -171,3 +171,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 52 - 2025-11-15
 - Add password confirmation
+
+## Commit 53 - 2025-11-16
+- Implement logout functionality
