@@ -174,3 +174,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 53 - 2025-11-16
 - Implement logout functionality
+
+## Commit 54 - 2025-11-17
+- Create Tickets page
