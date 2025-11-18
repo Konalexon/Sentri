@@ -177,3 +177,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 54 - 2025-11-17
 - Create Tickets page
+
+## Commit 55 - 2025-11-18
+- Add ticket table view
