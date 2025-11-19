@@ -180,3 +180,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 55 - 2025-11-18
 - Add ticket table view
+
+## Commit 56 - 2025-11-19
+- Implement filters
