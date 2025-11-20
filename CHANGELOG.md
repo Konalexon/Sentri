@@ -183,3 +183,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 56 - 2025-11-19
 - Implement filters
+
+## Commit 57 - 2025-11-20
+- Add status badges
