@@ -186,3 +186,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 57 - 2025-11-20
 - Add status badges
+
+## Commit 58 - 2025-11-21
+- Create priority indicators
