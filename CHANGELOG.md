@@ -189,3 +189,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 58 - 2025-11-21
 - Create priority indicators
+
+## Commit 59 - 2025-11-22
+- Implement pagination UI
