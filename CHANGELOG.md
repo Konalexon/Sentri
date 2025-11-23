@@ -192,3 +192,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 59 - 2025-11-22
 - Implement pagination UI
+
+## Commit 60 - 2025-11-23
+- Create Inbox page
