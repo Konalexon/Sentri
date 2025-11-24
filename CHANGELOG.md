@@ -198,3 +198,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 61 - 2025-11-24
 - Add message list
+
+## Commit 62 - 2025-11-24
+- Implement split panel view
