@@ -195,3 +195,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 60 - 2025-11-23
 - Create Inbox page
+
+## Commit 61 - 2025-11-24
+- Add message list
