@@ -201,3 +201,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 62 - 2025-11-24
 - Implement split panel view
+
+## Commit 63 - 2025-11-25
+- Add quick reply feature
