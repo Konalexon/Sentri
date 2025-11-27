@@ -207,3 +207,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 64 - 2025-11-26
 - Create Settings page
+
+## Commit 65 - 2025-11-27
+- Add settings tabs
