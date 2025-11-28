@@ -210,3 +210,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 65 - 2025-11-27
 - Add settings tabs
+
+## Commit 66 - 2025-11-28
+- Implement theme switcher
