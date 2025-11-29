@@ -213,3 +213,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 66 - 2025-11-28
 - Implement theme switcher
+
+## Commit 67 - 2025-11-29
+- Create Account page
