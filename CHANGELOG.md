@@ -216,3 +216,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 67 - 2025-11-29
 - Create Account page
+
+## Commit 68 - 2025-11-30
+- Add profile form
