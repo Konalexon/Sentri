@@ -219,3 +219,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 68 - 2025-11-30
 - Add profile form
+
+## Commit 69 - 2025-12-01
+- Implement password change
