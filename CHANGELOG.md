@@ -222,3 +222,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 69 - 2025-12-01
 - Implement password change
+
+## Commit 70 - 2025-12-02
+- Add 2FA settings
