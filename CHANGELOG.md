@@ -228,3 +228,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 71 - 2025-12-03
 - Create Team page
+
+## Commit 72 - 2025-12-03
+- Add team grid view
