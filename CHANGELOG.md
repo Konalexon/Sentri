@@ -225,3 +225,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 70 - 2025-12-02
 - Add 2FA settings
+
+## Commit 71 - 2025-12-03
+- Create Team page
