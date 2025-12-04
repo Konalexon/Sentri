@@ -231,3 +231,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 72 - 2025-12-03
 - Add team grid view
+
+## Commit 73 - 2025-12-04
+- Implement list view toggle
