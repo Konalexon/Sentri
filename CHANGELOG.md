@@ -234,3 +234,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 73 - 2025-12-04
 - Implement list view toggle
+
+## Commit 74 - 2025-12-05
+- Add member cards
