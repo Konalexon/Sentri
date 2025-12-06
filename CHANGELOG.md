@@ -237,3 +237,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 74 - 2025-12-05
 - Add member cards
+
+## Commit 75 - 2025-12-06
+- Create invite modal
