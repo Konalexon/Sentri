@@ -246,3 +246,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 77 - 2025-12-08
 - Create Analytics page
+
+## Commit 78 - 2025-12-09
+- Add chart components
