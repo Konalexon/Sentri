@@ -249,3 +249,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 78 - 2025-12-09
 - Add chart components
+
+## Commit 79 - 2025-12-10
+- Implement trend graphs
