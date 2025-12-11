@@ -252,3 +252,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 79 - 2025-12-10
 - Implement trend graphs
+
+## Commit 80 - 2025-12-11
+- Add satisfaction metrics
