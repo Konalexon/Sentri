@@ -258,3 +258,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 81 - 2025-12-12
 - Create Knowledge Base
+
+## Commit 82 - 2025-12-12
+- Add article categories
