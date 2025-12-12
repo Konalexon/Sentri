@@ -255,3 +255,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 80 - 2025-12-11
 - Add satisfaction metrics
+
+## Commit 81 - 2025-12-12
+- Create Knowledge Base
