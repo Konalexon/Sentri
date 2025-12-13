@@ -261,3 +261,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 82 - 2025-12-12
 - Add article categories
+
+## Commit 83 - 2025-12-13
+- Implement search
