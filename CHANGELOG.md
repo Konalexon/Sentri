@@ -264,3 +264,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 83 - 2025-12-13
 - Implement search
+
+## Commit 84 - 2025-12-14
+- Add article preview
