@@ -267,3 +267,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 84 - 2025-12-14
 - Add article preview
+
+## Commit 85 - 2025-12-15
+- Create Integrations hub
