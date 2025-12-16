@@ -270,3 +270,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 85 - 2025-12-15
 - Create Integrations hub
+
+## Commit 86 - 2025-12-16
+- Add Slack integration
