@@ -273,3 +273,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 86 - 2025-12-16
 - Add Slack integration
+
+## Commit 87 - 2025-12-17
+- Add Discord support
