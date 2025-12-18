@@ -276,3 +276,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 87 - 2025-12-17
 - Add Discord support
+
+## Commit 88 - 2025-12-18
+- Implement Zapier connection
