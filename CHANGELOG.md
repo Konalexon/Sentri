@@ -279,3 +279,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 88 - 2025-12-18
 - Implement Zapier connection
+
+## Commit 89 - 2025-12-19
+- Add webhook management
