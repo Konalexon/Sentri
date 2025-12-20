@@ -282,3 +282,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 89 - 2025-12-19
 - Add webhook management
+
+## Commit 90 - 2025-12-20
+- Create API keys section
