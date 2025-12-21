@@ -285,3 +285,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 90 - 2025-12-20
 - Create API keys section
+
+## Commit 91 - 2025-12-21
+- Add Activity Log page
