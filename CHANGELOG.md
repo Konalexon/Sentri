@@ -291,3 +291,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 92 - 2025-12-21
 - Implement event timeline
+
+## Commit 93 - 2025-12-22
+- Add filter options
