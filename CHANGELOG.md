@@ -294,3 +294,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 93 - 2025-12-22
 - Add filter options
+
+## Commit 94 - 2025-12-23
+- Create Admin panel
