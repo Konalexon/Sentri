@@ -297,3 +297,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 94 - 2025-12-23
 - Create Admin panel
+
+## Commit 95 - 2025-12-24
+- Add user management
