@@ -300,3 +300,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 95 - 2025-12-24
 - Add user management
+
+## Commit 96 - 2025-12-25
+- Implement quick actions
