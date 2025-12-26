@@ -303,3 +303,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 96 - 2025-12-25
 - Implement quick actions
+
+## Commit 97 - 2025-12-26
+- Fix validation errors
