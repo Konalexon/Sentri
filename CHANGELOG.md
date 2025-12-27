@@ -306,3 +306,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 97 - 2025-12-26
 - Fix validation errors
+
+## Commit 98 - 2025-12-27
+- Update dependencies
