@@ -312,3 +312,6 @@ All notable changes to Sentri will be documented in this file.
 
 ## Commit 99 - 2025-12-28
 - Improve error handling
+
+## Commit 100 - 2025-12-29
+- Add loading states
